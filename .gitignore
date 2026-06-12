@@ -1,0 +1,25 @@
+# Python 编译文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller 打包输出
+dist/
+build/
+*.spec
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.bak
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 虚拟环境
+venv/
+env/
